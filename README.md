@@ -3,25 +3,20 @@ Advance_Excel
 <br>
 
 _______________________________________________________________________________________________________________________________________________________________________________________
-### DATA_SET : https://drive.google.com/drive/folders/1_q9XTVBPBG4gIPUPL6SingvJyhj690kb
+### DATA_SET : [https://drive.google.com/drive/folders/1_q9XTVBPBG4gIPUPL6SingvJyhj690kb](https://drive.google.com/drive/folders/1RAAToMTiQsRDF-PhOGrmAx08pjzFyKeV)
 
-### Important_Note :https://docs.google.com/document/d/1x1B851YFrNM9Zv5Jk0YuBMFcE0nIvq_F/edit?usp=sharing&ouid=101497979566065047806&rtpof=true&sd=true
-<HR>
 
 ## Analysis part In Excel 
 
-- **Note**: The Excel file is quite large, approximately 90MB. Therefore, I've provided a link to both the Excel sheet and a Google Sheet. Please download them and review the content.
+- **Note**: The Excel file is quite large, approximately 90MB. Therefore, I've provided a link to the Excel sheet. Please download them and review the content.(Trying to review excel sheet without downloading the file will likely lead to error due to large file size )
   
--->   **1) Excel :** https://onedrive.live.com/view.aspx?resid=42DDA65A1592569B%21141418&authkey=!AK2aqE91vl57oJs
-  
--->   **2) Google_Sheet :** https://drive.google.com/file/d/1jiD5BH37p9i423J93nGrpyMo0HfQxJlb/view
+-->   **1) Excel :** [[https://onedrive.live.com/view.aspx?resid=42DDA65A1592569B%21141418&authkey=!AK2aqE91vl57oJs](https://drive.google.com/drive/folders/1pFuyGWd5LIC4roXbWolxSeyPIE5NiopF)](https://drive.google.com/drive/folders/1zVzNNkeMd7S5IVEGNjjckLp7HaJbMMHj)
 
 **Note**: Please try to open this file in Microsoft Excel rather than WPS or other software, as using other programs may cause errors in the box plot during the outlier analysis.
 <br>
 <hr>
 
-<p align="center">
-<img src="https://github.com/smit012/Bank-Loan-Case-Study/blob/main/Loan_Case_Study.png" alt="Demo Image" width="500"></p>
+
 <hr>
 
 # Description :
@@ -172,10 +167,6 @@ Create correlation matrices or heatmaps to visualize the correlations between va
 
 ---
 
-
-## Contact
-
-For any questions, feel free to reach out to https://www.linkedin.com/in/smit-surani-140a58244/ .
 
 
 
