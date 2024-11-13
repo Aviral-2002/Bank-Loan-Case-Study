@@ -10,11 +10,11 @@ ________________________________________________________________________________
 
 - **Note**: The Excel file is quite large, approximately 90MB. Therefore, I've provided a link to the Excel sheet. Please download them and review the content.(Trying to review excel sheet without downloading the file will likely lead to error due to large file size )
   
--->   **1) Excel :** [[https://onedrive.live.com/view.aspx?resid=42DDA65A1592569B%21141418&authkey=!AK2aqE91vl57oJs](https://drive.google.com/drive/folders/1pFuyGWd5LIC4roXbWolxSeyPIE5NiopF)](https://drive.google.com/drive/folders/1zVzNNkeMd7S5IVEGNjjckLp7HaJbMMHj)
-
+-->   1) Excel : https://drive.google.com/drive/folders/1pFuyGWd5LIC4roXbWolxSeyPIE5NiopF
+<br>
+<br>
 **Note**: Please try to open this file in Microsoft Excel rather than WPS or other software, as using other programs may cause errors in the box plot during the outlier analysis.
 <br>
-<hr>
 
 
 <hr>
